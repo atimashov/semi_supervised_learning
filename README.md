@@ -3,7 +3,12 @@ In this repository, I will post implementations of main papers related to SSL. T
 
 ## Table Of Contents
 - [Classification](#classification)
-  - [Basics](#basics)
-	- [blabla](#blabla)
-    - [baba](#baba)
-]
+  - [Semi-Supervised Learning by Entropy Minimization](#entropy-minimization)
+  - [Temporal Ensembling for Semi-Supervised Learning](#temporal-ensembling)
+  - [Virtual Adversarial Training](#vat)
+  - [Mean Teacher](#mean-teacher)
+  - [Mix Match](#mix-match)
+  - [Fix Match](#fix-match)
+  - [Noisy Student](#noisy-student)
+  - [Semi-Supervised Learning with Deep Generative Models](#ssl-with-genai)
+- [Object Detection](#object_detection)
